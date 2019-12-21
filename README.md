@@ -1,2 +1,2 @@
 # moments-app
-front end app for moments
+front end for moments-app
